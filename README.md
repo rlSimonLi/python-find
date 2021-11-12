@@ -1,5 +1,5 @@
 # python-find
-Python implementation of the Linux find command.
+Python implementation (Incomplete) of the Linux find command.
 
 This command allows you to search the file system namespace for a file that satisfies some criteria.
 
